@@ -38,7 +38,7 @@ COORD coord = {0, 0};
 //list of global variable
 int s;
 char findbook;
-char password[10]={"codewithc"};
+char password[10]={"Sharath16113"};
 
 void gotoxy (int x, int y)
 {
@@ -131,7 +131,7 @@ printf("\tMini Project in C");
 gotoxy(16,5);
 printf("\tis brought to you by");
 gotoxy(16,7);
-printf("\tCode with C Team");
+printf("\tSharath16113");
 gotoxy(16,8);
 printf("******************************************");
 gotoxy(16,10);
