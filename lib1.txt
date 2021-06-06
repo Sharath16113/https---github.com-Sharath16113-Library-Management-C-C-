@@ -1,5 +1,7 @@
 #include<windows.h>
+
 #include<stdio.h>
+
 #include<conio.h>
 #include <stdlib.h>
 #include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
